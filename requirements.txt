@@ -1,0 +1,2 @@
+clifford
+-e git://github.com/pygae/pyganja.git#egg=pyganja
